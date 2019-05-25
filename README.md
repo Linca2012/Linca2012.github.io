@@ -1,4 +1,4 @@
 # Людмила Могученко
 Мои работы
 
-[site-1](Linca2012.github.io/Grid/index.html)
+[site-1](Linca2012.github.io/Grid/)
